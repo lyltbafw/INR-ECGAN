@@ -1,3 +1,3 @@
 # INR-ECGAN
 
-The code will be released after the acceptance results of the ICPR.
+The code will be released after the acceptance results of the ICPR 2024.
