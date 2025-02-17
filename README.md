@@ -25,15 +25,6 @@ Before getting started, ensure that your system has the following software and l
 - Python 3.8 or higher
 - PyTorch 1.10 or higher
 - CUDA Toolkit (choose the appropriate version based on your GPU configuration)
-
-### Installing Dependencies
-Clone this repository and install the required dependencies by running:
-```bash
-git clone https://github.com/yourusername/INR-ECGAN.git
-cd INR-ECGAN
-pip install -r requirements.txt
-```
-
 ---
 
 ## Dataset Preparation
