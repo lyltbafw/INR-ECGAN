@@ -88,9 +88,6 @@ The main dependencies are listed below:
 - OpenCV
 - Matplotlib
 - TensorBoard (optional)
-
-For the full list of dependencies, see `requirements.txt`.
-
 ---
 
 ## Citation
