@@ -75,7 +75,7 @@ Below are some examples of experimental results:
 
 | Input (SAR) | Output (Optical) |
 |-------------|------------------|
-| ![SAR Image](results/sar_example.png) | ![Optical Image](results/optical_example.png) |
+| ![SAR Image](421.png) | ![Optical Image](421_synthesized_image.jpg) |
 
 For more results, please refer to the paper or experiment report.
 
